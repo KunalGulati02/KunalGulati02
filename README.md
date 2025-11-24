@@ -1,73 +1,47 @@
-# Hi 👋, I'm Kunal Gulati  
-AI & Full-Stack Developer | Building Intelligent Systems | Passionate About ML, Agentic AI & Web Apps  
+<h1 align="center">Hi 👋, I'm Kunal Gulati</h1>
 
-🔭 I’m currently working on **X-Ray Medical AI Assistant** & improving my **Phishing Detection System**  
-
-🌱 I’m currently learning **Agentic AI, LLMs, Next.js, Model Deployment, and Full-Stack scaling**
-
-👯 I’m looking to collaborate on **AI/ML, Full-Stack Apps, and GenAI Projects**
-
-👨‍💻 All of my projects are available here on GitHub → **github.com/KunalGulati02**
-
-🧠 I have knowledge in **Python, React, Flask, Tailwind, Node.js, TensorFlow, Keras, PyTorch, SQL, APIs, ML & CV**
-
-📫 Reach me at **kunalgulati211@gmail.com**
+<h3 align="center">AI & Full-Stack Developer | Innovating with Machine Learning, Agentic AI & Web Technologies</h3>
 
 ---
 
-## 🌐 Connect with me:
-🔗 **GitHub:** https://github.com/KunalGulati02  
- 
----
-
-## 🛠️ Languages & Tools:
-**AI & ML:**  
-Python • TensorFlow • Keras • PyTorch • scikit-learn • HuggingFace • OpenCV  
-
-**Frontend:**  
-React • Vite • TailwindCSS • JavaScript • HTML • CSS  
-
-**Backend:**  
-Flask • Node.js • Express.js • REST APIs  
-
-**Databases & Tools:**  
-PostgreSQL • Git • Postman • PowerBI  
+- 🛠️ I’m currently working on **X-Ray Medical AI Assistant**
+- 🌱 I’m currently learning **Agentic AI, LLMs, Next.js, Model Deployment**
+- 🤝 I’m looking to collaborate on **AI/ML, Full Stack, and GenAI Projects**
+- 👨‍💻 All of my projects are available here: **https://github.com/KunalGulati02**
+- 🧠 I have experience in **Python, React, Flask, TensorFlow, Keras, Tailwind, Node.js, ML & CV**
+- 📫 How to reach me: **kunalgulati211@gmail.com**
 
 ---
 
-## 🚀 My Featured Projects
+## Languages and Tools:
 
-### 🩺 **X-Ray Medical AI Assistant**  
-AI system that analyzes chest X-rays and summarizes medical reports.  
-- Custom ViT-GPT2 model  
-- React frontend + Flask backend  
-- Report summarization using BART-Large  
-🔗 Repo: https://github.com/KunalGulati02/xray-medical-ai  
+<p align="left">
 
----
+<!-- AI / ML -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 
-### 🔗 **Phishing URL Detector Web App**  
-Classifies URLs as safe/suspicious/malicious using heuristics + Google Safe Browsing.  
-- React + Tailwind frontend  
-- Node.js + Express backend  
-- PostgreSQL user history + risk logs  
-🔗 Repo: https://github.com/KunalGulati02/phishing-url-detector  
+<!-- Frontend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 
----
+<!-- Backend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 
-### 🌿 **Tomato Leaf Disease Detection**  
-CNN + KNN classifier for plant disease detection  
-- Published at **IC-AMSI-2024**  
-- Achieved strong multi-class accuracy  
-🔗 Repo : https://github.com/KunalGulati02/tomato-leaf-disease-detection
+<!-- Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="postman" width="40" height="40"/>
 
----
-
-## 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=KunalGulati02&theme=tokyonight)
+</p>
 
 ---
 
+## GitHub Stats:
+<p align="left">
+<img src="https://streak-stats.demolab.com?user=KunalGulati02&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-### ⭐ Thanks for visiting my profile!  
-Feel free to explore my repositories and connect with me 😄
