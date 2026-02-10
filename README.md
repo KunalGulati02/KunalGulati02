@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kunal Gulati</h1>
+<h1 align="center">Hi , I'm Kunal Gulati</h1>
 
 <h3 align="center">AI & Full-Stack Developer | Innovating with Machine Learning, Agentic AI & Web Technologies</h3>
 
 ---
-
-- 🛠️ I’m currently working on **X-Ray Medical AI Assistant**
-- 🌱 I’m currently learning **Agentic AI, LLMs, Next.js, Model Deployment**
-- 🤝 I’m looking to collaborate on **AI/ML, Full Stack, and GenAI Projects**
-- 👨‍💻 All of my projects are available here: **https://github.com/KunalGulati02**
-- 🧠 I have experience in **Python, React, Flask, TensorFlow, Keras, Tailwind, Node.js, ML & CV**
-- 📫 How to reach me: **kunalgulati211@gmail.com**
+-  I’m worked with **Agentic AI, LLMs, Next.js, Model Deployment**
+-  All of my projects are available here: **https://github.com/KunalGulati02**
+-  I have experience in **Python, React, Flask, TensorFlow, Keras, Tailwind, Node.js, ML & CV**
+-  How to reach me: **kunalgulati211@gmail.com**
 
 ---
 
