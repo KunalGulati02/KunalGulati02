@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Kunal Gulati</h1>
 
-<h3 align="center">Full Stack & AI Developer | Building Scalable Web Applications, Intelligent Systems and Data Driven Solutions</h3>
+<h3 align="center">Full stack developer who enjoys building AI powered products and solving real world problems</h3>
 
 ---
 
