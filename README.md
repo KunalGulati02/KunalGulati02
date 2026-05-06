@@ -1,12 +1,16 @@
 <h1 align="center">Hi , I'm Kunal Gulati</h1>
 
-<h3 align="center">AI & Full-Stack Developer | Innovating with Machine Learning, Agentic AI & Web Technologies</h3>
+<h3 align="center">Full Stack & AI Developer | Building Scalable Web Applications, Intelligent Systems and Data Driven Solutions</h3>
 
 ---
--  I’m worked with **Agentic AI, LLMs, Next.js, Model Deployment**
--  All of my projects are available here: **https://github.com/KunalGulati02**
--  I have experience in **Python, React, Flask, TensorFlow, Keras, Tailwind, Node.js, ML & CV**
--  How to reach me: **kunalgulati211@gmail.com**
+
+- Experienced in designing and developing full stack web applications with modern frontend, backend, database, and authentication architectures  
+- Built scalable applications using React, Next.js, Node.js, Express.js, PostgreSQL, Flask, and REST APIs with secure authentication and role based access control  
+- Worked on AI powered systems involving LLMs, Agentic AI workflows, machine learning, computer vision, and workflow automation  
+- Skilled in backend development, API integration, database design, SQL querying, analytics pipelines, and deployment oriented application development  
+- Developed projects across healthcare AI, phishing detection, employee management systems, analytics dashboards, and computer vision applications  
+- Experienced with Python, JavaScript, TensorFlow,Tailwind CSS and multi API orchestration workflows  
+- How to reach me: **kunalgulati211@gmail.com**
 
 ---
 
