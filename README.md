@@ -4,13 +4,13 @@
 
 ---
 
-- Experienced in designing and developing full stack web applications with modern frontend, backend, database, and authentication architectures  
-- Built scalable applications using React, Next.js, Node.js, Express.js, PostgreSQL, Flask, and REST APIs with secure authentication and role based access control  
-- Worked on AI powered systems involving LLMs, Agentic AI workflows, machine learning, computer vision, and workflow automation  
-- Skilled in backend development, API integration, database design, SQL querying, analytics pipelines, and deployment oriented application development  
-- Developed projects across healthcare AI, phishing detection, employee management systems, analytics dashboards, and computer vision applications  
-- Experienced with Python, JavaScript, TensorFlow,Tailwind CSS and multi API orchestration workflows  
-- How to reach me: **kunalgulati211@gmail.com**
+* I enjoy building full stack applications and working across the frontend, backend, databases, and APIs to create complete end to end systems
+* Built projects using React, Next.js, Node.js, Express.js, PostgreSQL, and Flask with authentication, role based access, and real time data handling
+* Worked on AI and automation projects involving LLMs, machine learning, computer vision, and multi API workflows
+* Comfortable with backend development, REST APIs, SQL, database design, analytics pipelines, and application logic
+* Developed projects in healthcare AI, phishing detection, employee management, analytics dashboards, and computer vision
+* Experienced with Python, JavaScript, TensorFlow, Tailwind CSS, and integrating external APIs into scalable applications
+* How to reach me: **kunalgulati211@gmail.com**
 
 ---
 
